@@ -1,0 +1,13 @@
+> Python Programming
+> ==================
+> https://docs.python.org/3/tutorial/
+> https://www.w3schools.com/python/
+> https://www.tutorialspoint.com/python/index.htm
+> https://www.guru99.com/python-tutorials.html
+> https://pythonbasics.org/
+> https://www.geeksforgeeks.org/python-programming-language/
+>
+> Java Programming
+> ================
+> https://www.w3schools.com/java/java_polymorphism.asp
+> https://www.tutorialspoint.com/java/java_overriding.htm
