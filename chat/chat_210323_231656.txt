@@ -1,0 +1,10 @@
+Yoda: Seek advice you must
+Client: rich
+Yoda: Soon enough you will!
+Client: pets
+Yoda: Coming, the clones are!
+Client: love
+Yoda: As a Jedi love you should not!
+Client: fact
+Yoda: Mars will get rings like Saturn.
+Client: work

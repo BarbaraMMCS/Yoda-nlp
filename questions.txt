@@ -1,0 +1,6 @@
+rich
+pets
+love
+fact
+work
+q

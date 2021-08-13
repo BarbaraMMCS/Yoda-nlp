@@ -1,0 +1,12 @@
+Yoda: Seek advice you must
+Client: rich
+Yoda: In your dreams 😉 !
+Client: pets
+Yoda: Have real woolly mammoths, you will!
+Client: love
+Yoda: As a Jedi love you should not!
+Client: fact
+Yoda: We'll discover another 2,000 planets this year.
+Client: work
+Yoda: Weak, you are! Jedi you sould not be!
+Client: q

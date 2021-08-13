@@ -1,0 +1,12 @@
+Yoda: Seek advice you must
+Client: rich
+Yoda: In your dreams 😉 !
+Client: pets
+Yoda: Have a Wookiee, you will!
+Client: love
+Yoda: As a Jedi love you should not!
+Client: fact
+Yoda: You'll fly in planes that are literally all window.
+Client: work
+Yoda: Weak, you are! Jedi you sould not be!
+Client: q

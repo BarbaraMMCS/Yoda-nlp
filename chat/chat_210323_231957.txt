@@ -1,0 +1,12 @@
+Yoda: Seek advice you must
+Client: rich
+Yoda: Soon enough you will!
+Client: pets
+Yoda: Coming, the clones are!
+Client: love
+Yoda: As a Jedi love you should not!
+Client: fact
+Yoda: We'll discover another 2,000 planets this year.
+Client: work
+Yoda: Dust spies your next job is!
+Client: q

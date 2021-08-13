@@ -1,0 +1,16 @@
+[
+    ".*(money|rich).*",
+    ".*how much (?P<muchItem>[a-zA-Z]+).*",
+    ".*how many (?P<manyItem>[a-zA-Z]+).*",
+    ".*how (is|are) (?P<subject>[a-zA-Z ]+) going to be.*",
+    ".*fact.*",
+    ".*(love|married).*",
+    ".*enviroment.*",
+    ".*work.*",
+    ".*health.*",
+    ".*family.*",
+    ".*friends.*",
+    ".*pets.*",
+    ".*(force|power).*",
+    ".*"
+]

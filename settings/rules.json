@@ -1,0 +1,68 @@
+{
+    ".*(money|rich).*" : [
+        "Nope!",
+        "In your dreams 😉 !",
+        "Soon enough you will!"
+    ],
+    ".*how much (?P<muchItem>[a-zA-Z]+).*" : [
+        "Have %s %s very soon, you will !",
+        "Have %s %s next month, you will !",
+        "Have %s %s in a decade, you will !"
+    ],
+    ".*how many (?P<manyItem>[a-zA-Z]+).*" : [
+        "Have %s %s very soon, you will !",
+        "Have %s %s next month, you will !",
+        "Have %s %s in a decade, you will !"
+    ],
+    ".*how (is|are) (?P<subject>[a-zA-Z ]+) going to be.*": [
+        "%s will be amazing!",
+        "%s will be terrible!"
+    ],
+    ".*fact.*": [
+        "Mars will get rings like Saturn.",
+        "We'll be communicating with thoughts.",
+        "Artificial intelligence will replace artists.",
+        "You'll fly in planes that are literally all window.",
+        "We'll discover another 2,000 planets this year.",
+        "You'll have easy access to all of the world's knowledge.",
+        "We'll have interplanetary Internet very soon."
+    ],
+    ".*(love|married).*": [
+        "As a Jedi love you should not!",
+        "Love or laser saber, choice you should make!",
+        "Need to leave Earth, you will!"
+    ],
+    ".*enviroment.*": [
+        "Coming, Winter is!",
+        "The days will get a lot longer.",
+        "Need to leave Earth, you will!"
+    ],
+    ".*work.*": [
+        "Dust spies your next job is!",
+        "Weak, you are! Jedi you sould not be!"
+    ],
+    ".*health.*": [
+        "Heal you, nanobots will!",
+        "Be able to detect cancer, pills will!"
+    ],
+    ".*family.*": [
+        "destroy us in 62 years, an asteroid might! To Mars you should go."
+    ],
+    ".*friends.*": [
+        "Coming, the clones are!"
+    ],
+    ".*pets.*": [
+        "Coming, the clones are!",
+        "Have dinosaur zoos, you will!",
+        "Have real woolly mammoths, you will!",
+        "Have a Wookiee, you will!"
+    ],
+    ".*(force|power).*": [
+        "Become powerful you have, the dark side in you I sense."
+    ],
+    ".*" : [
+        "I don't know why are you asking me?"
+    ]
+}
+
+
